@@ -1,0 +1,7 @@
+Word Embedding Over Linguistic Features for Fake News Detection
+
+Algorithm / Model Used: CNN Model Architecture
+
+Accuracy score:  0.93
+
+
